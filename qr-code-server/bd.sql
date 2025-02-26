@@ -1,2 +1,9 @@
 CREATE DATABASE qr_codes;
 use qr_codes;
+CREATE TABLE qr_codes (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  data VARCHAR(255) NOT NULL,
+  createdAt TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+SELECT * FROM qr_codes;
