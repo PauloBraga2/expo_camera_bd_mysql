@@ -95,12 +95,16 @@ Agora que tudo está rodando:
 ✅ Os dados serão enviados automaticamente para o backend.
 ✅ O servidor armazenará os dados no banco de dados MySQL.
 
-👥 Integrantes do Projeto
-Paulo Braga Uchôa Filho
-Raimundo Pereira de Oliveira Filho
-Valdemiro Gabriel Oliveira dos Santos Nascimento
-Yara Beatriz Ferreira Gomes
-Maria Luana da Silva
+👥 Integrantes do Projeto:
+Paulo Braga Uchôa Filho;
+
+Raimundo Pereira de Oliveira Filho;
+
+Valdemiro Gabriel Oliveira dos Santos Nascimento;
+
+Yara Beatriz Ferreira Gomes;
+
+Maria Luana da Silva.
 
 Observações:
 Sempre que trocar de rede Wi-Fi, atualize o IP no App.tsx.
